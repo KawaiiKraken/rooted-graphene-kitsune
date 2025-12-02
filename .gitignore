@@ -5,3 +5,5 @@
 /*.zip
 /*.zip.patched
 /.tmp/
+avb_pkmd.bin
+extracted
